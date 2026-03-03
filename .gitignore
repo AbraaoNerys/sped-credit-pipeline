@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+venv/
+
+# Logs
+logs/
+*.log
+
+# Dados e outputs (sensível / grande)
+data/input/
+data/output/
+
+# Templates (decida: se for fixo do produto, remova esta linha)
+data/templates/*.xlsx
+
+# Configs sensíveis
+.env
+
+configs/companies.json

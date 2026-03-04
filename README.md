@@ -96,7 +96,7 @@ pip install -e .
 python -m src.main company add \
   --id tonbraz \
   --razao "Tonbraz LTDA" \
-  --cnpj 61146320000149 \
+  --cnpj ******* \
   --regime REAL \
   --estabelecimento 01
 ```
